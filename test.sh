@@ -1,5 +1,5 @@
 #!/bin/sh
 echo "git test"
-version=2
+version=3
 echo "it is auto sync"
 
